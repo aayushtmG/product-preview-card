@@ -59,14 +59,14 @@ body {
   width: 100%;
   margin: 1rem 0;
   padding-right: 2rem;
-  line-height: 2rem;
+  line-height: 1.7rem;
 }
 .product-details p {
   color: var(--text);
   font-family: "Montserrat";
-  line-height: 1.4rem;
+  line-height: 1.3rem;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .product-details .price {
@@ -74,7 +74,7 @@ body {
   font-size: 2rem;
   position: relative;
   font-family: "Fraunces";
-  margin: 1.5rem auto;
+  margin: 1rem auto;
 }
 .product-details .price:after {
   content: "$169.99";
